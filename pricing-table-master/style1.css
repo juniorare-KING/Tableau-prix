@@ -1,0 +1,51 @@
+.author-info {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 16px;
+  color: rgb(55, 65, 81);
+}
+
+.author-info a {
+  text-decoration: none;
+}
+
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* BODY */
+body {
+  font-family: "Be Vietnam Pro", sans-serif;
+}
+
+/* HERO SECTION */
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+  background: #f8fafc
+    url("https://www.toptal.com/designers/subtlepatterns/uploads/dot-grid.png");
+  background-size: contain;
+  border-bottom: 2px solid #e5e7eb;
+  margin: 0 auto;
+}
+
+/* TITRE */
+.hero h1 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #121826;
+  margin-bottom: 24px;
+}
+
+/* PARAGRAPHE */
+.hero p {
+  font-size: 18px;
+  font-weight: 400;
+  color: #4d5562;
+  line-height: 1.6;
+  max-width: 500px;
+  margin: 0 auto;
+}
